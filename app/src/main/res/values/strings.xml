@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Unscramble</string>
+    <string name="submit">Kirim</string>
+    <string name="skip">Lewati</string>
+    <string name="score">Skor: %1$d</string>
+    <string name="word_count">Kata ke-%1$d</string>
+    <string name="instructions">Susun huruf-huruf di atas menjadi kata yang benar.</string>
+    <string name="wrong_guess">Tebakan salah, coba lagi!</string>
+    <string name="enter_your_word">Masukkan kata Anda</string>
+    <string name="congratulations">Selamat!</string>
+    <string name="you_scored">Skor akhir Anda: %1$d</string>
+    <string name="exit">Keluar</string>
+    <string name="play_again">Main Lagi</string>
+</resources>
